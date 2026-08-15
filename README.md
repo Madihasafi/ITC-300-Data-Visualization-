@@ -1,5 +1,4 @@
-# ITC-300-Data-Visualization-
-# Data Visualization ITC 300 — Project File
+# ITC-300-Data-Visualization- Project File
 
 This file includes all the projects and practical activities that will be completed throughout the **Data Visualization (ITC 300)** course. It is provided as a sample format for organizing the work, code, outputs, analysis, and reflections completed during the course.
 
