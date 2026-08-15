@@ -7,6 +7,9 @@ The projects in this file will cover different stages of working with data, incl
 This file will be updated throughout the semester as new projects and activities are completed.
 
 **Course:** Data Visualization
+
 **Course Code:** ITC 300
+
 **File Type:** Sample Project Portfolio
+
 **Purpose:** To organize and document all projects completed during the course.
